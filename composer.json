@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "Src\\": "src/"
+    },
+    "files": [
+      "config/paths.php",
+      "config/redirect.php",
+      "config/helper.php"
+    ]
+  }
+}
